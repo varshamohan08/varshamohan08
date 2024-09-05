@@ -46,38 +46,39 @@ OR
   <table style="border-collapse: collapse; border: none;">
       <tr>
           <td style="border: none;">
-             <a href="https://github.com/varshamohan08/" target="_blank">
+             <a href="https://github.com/varshamohan08/" target="_blank" rel="noopener noreferrer">
                  <img align="center" src="https://skillicons.dev/icons?i=github" alt="VarshaMohan" height="30" width="40" />
              </a>
           </td>
-          <td style="border: none; ">
-              <a href="https://www.linkedin.com/in/varsha-mohan-496540196" target="_blank">
+          <td style="border: none;">
+              <a href="https://www.linkedin.com/in/varsha-mohan-496540196" target="_blank" rel="noopener noreferrer">
                   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="VarshaMohan" height="30" width="40" />
               </a>
           </td>
           <td style="border: none;">
-              <a href="https://varshv.hashnode.dev/" target="_blank">
+              <a href="https://varshv.hashnode.dev/" target="_blank" rel="noopener noreferrer">
                 <img src="https://github.com/get-icon/geticon/blob/master/icons/hashnode.svg" alt="hashnode" width="30px" height="30px">
               </a>
           </td>
           <td style="border: none;">
-              <a href="https://dev.to/varshav" target="_blank">
+              <a href="https://dev.to/varshav" target="_blank" rel="noopener noreferrer">
                   <img src="https://skillicons.dev/icons?i=devto" alt="varshav" height="30" width="40" />
               </a>
           </td>
           <td style="border: none;">
-              <a href="https://leetcode.com/u/varshvm/" target="_blank">
+              <a href="https://leetcode.com/u/varshvm/" target="_blank" rel="noopener noreferrer">
                   <img align="center" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/leetcode.svg" alt="varshvm" height="30" width="40" />
               </a>
           </td>
           <td style="border: none;">
-              <a href="https://www.hackerrank.com/profile/varshamohan08" target="blank">
+              <a href="https://www.hackerrank.com/profile/varshamohan08" target="_blank" rel="noopener noreferrer">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varshamohan08" height="30" width="40" />
               </a>
           </td>
       </tr>
   </table>
 </div>
+
 
 
 
