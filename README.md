@@ -57,7 +57,7 @@ OR
               </a>
           </td>
           <td style="border: none;">
-              <a href="https://dev.to/varshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="varshav" height="30" width="40" /></a>
+              <a href="https://dev.to/varshav" target="blank"><img src="https://skillicons.dev/icons?i=devto" alt="varshav" height="30" width="40" /></a>
           </td>
           <td style="border: none;">
               <a href="https://leetcode.com/u/varshvm/" target="blank"><img align="center" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/leetcode.svg" alt="varshvm" height="30" width="40" /></a>
