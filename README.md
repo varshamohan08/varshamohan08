@@ -110,8 +110,8 @@ More stuff about me 👇
 
 [![Varsha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=varshamohan08&)](https://github.com/varshamohan08)
     
-<h3 align="left">Support 👐</h3>
-<p><a href="https://www.buymeacoffee.com/varshamohan08"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="varshamohan08" /></a></p><br><br>
+<!-- <h3 align="left">Support 👐</h3>
+<p><a href="https://www.buymeacoffee.com/varshamohan08"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="varshamohan08" /></a></p><br><br> -->
 
 <br >
 </details>
