@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varshamohan08&label=Profile%20views&color=0e75b6&style=flat" alt="VarshaMohan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varshamohan08&label=Profile%20views&color=0e75b6&style=flat" alt="varshamohan08" /> </p>
 
 <a href="https://www.linkedin.com/in/varsha-mohan-496540196/" target="_blank"><img align="center" src="https://img.shields.io/badge/-VarshaMohan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varsha-mohan-496540196/" alt="VarshaMohan" height="20" width="100" /></a>
 <a href="https://varshamohan08.github.io/portfolio/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://varshamohan08.github.io/portfolio/" alt="https://varshamohan08.github.io/portfolio/" height="20" width="90" /></a>
