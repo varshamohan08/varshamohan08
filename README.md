@@ -105,10 +105,10 @@ More stuff about me 👇
     
 <h3 align="left">Github Stats 📊 </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshamohan08&layout=compact&theme=transparent&card_width=430)](https://github.com/varshamohan08)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshamohan08&layout=compact&theme=transparent&card_width=500)](https://github.com/varshamohan08)
 
-[![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshamohan08&show_icons=true&theme=transparent&card_width=430)](https://github.com/varshamohan08)
-[![Varsha's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=varshamohan08&theme=ocean-dark&card_width=430&background=45%2C130024%2C3B1A38)](https://github.com/varshamohan08)
+[![Varsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshamohan08&show_icons=true&theme=transparent&card_width=500)](https://github.com/varshamohan08)
+[![Varsha's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=varshamohan08&theme=ocean-dark&card_width=500&background=45%2C130024%2C3B1A38)](https://github.com/varshamohan08)
     
 <!-- <h3 align="left">Support 👐</h3>
 <p><a href="https://www.buymeacoffee.com/varshamohan08"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="varshamohan08" /></a></p><br><br> -->
