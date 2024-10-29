@@ -92,7 +92,8 @@ OR
 
 <details>
 <summary>
-More stuff about me 👇
+<!-- More stuff about me 👇 -->
+    Github Stats 👇
 </summary>
 
 <br >
