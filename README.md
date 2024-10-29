@@ -93,7 +93,7 @@ OR
 <details>
 <summary>
 <!-- More stuff about me 👇 -->
-    Github Stats 👇
+    Github Stats 📊👇
 </summary>
 
 <br >
@@ -104,7 +104,7 @@ OR
 
 <!-- BLO-POST-LIST:END -->
     
-<h3 align="left">Github Stats 📊 </h3>
+<!-- <h3 align="left">Github Stats 📊 </h3> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshamohan08&layout=compact&theme=transparent&card_width=500)](https://github.com/varshamohan08)
 
