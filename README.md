@@ -34,9 +34,9 @@ OR
 
 ### About me :sparkles:
 
-- 👨‍💻 All about me is at [My Website](https://varshamohan08.github.io/portfolio/)
-- 🔭 I’m currently working on Data Science, Python, and Web Development
-- 🛩️ Exploring Deep Learning and Web Development
+- 👨‍💻 Discover more on [My Website](https://varshamohan08.github.io/portfolio/)
+- 🔭 Currently diving into Data Science, Python, and Web Development
+- 🛩️ Exploring the worlds of Deep Learning and Web Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varsha-mohan-496540196/)
 
  
